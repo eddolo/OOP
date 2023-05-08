@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8cecfbb-5a08-4ed7-bd1f-74d3727dfd42" name="Changes" comment="new exercise">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPLibrary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682442903040</updated>
       <workItem from="1682442904777" duration="28173000" />
-      <workItem from="1683567618120" duration="636000" />
+      <workItem from="1683567618120" duration="2001000" />
     </task>
     <task id="LOCAL-00001" summary="new exercise">
       <created>1683567979959</created>
@@ -66,11 +62,29 @@
       <option name="project" value="LOCAL" />
       <updated>1683567979959</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new exercise">
+      <created>1683568316009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683568316009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new exercise" />
